@@ -1,0 +1,4 @@
+Quando há pessoas trabalhando no mesmo projeto,
+elas fazem vários pushes localmente para deixarem remotamente,
+e outros devs obrigatoriamente devem dar <i>git fetch</i> para verificar se possui novas atualizações;
+se possuir, então <i>git pull</i> para atualizar localmente.
